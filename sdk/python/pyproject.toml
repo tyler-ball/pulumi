@@ -20,7 +20,7 @@ classifiers = [
 ]
 dependencies = [
     'protobuf~=4.21',
-    'grpcio~=1.66.2',
+    'grpcio~=1.67.1',
     'dill~=0.3',
     'semver~=3.0',
     'pyyaml~=6.0',
