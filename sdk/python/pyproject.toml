@@ -20,7 +20,7 @@ classifiers = [
 ]
 dependencies = [
     'protobuf~=4.21',
-    'grpcio~=1.66.2',
+    'grpcio~=1.67.1',
     'dill~=0.3',
     'six~=1.12',
     'semver~=2.13',
